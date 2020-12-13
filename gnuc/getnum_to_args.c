@@ -5,7 +5,7 @@
 *	bufはキャストしてないけど、まぁ好きな型に・・・ね・・・
 */
 
-void getnum_to_arg(int num,void *buf){
+void getnum2arg(int num,void *buf,int len){
 	//type ?=(int *)buf;
 	int flag=0;
 	for(unsigned int i=10.e+8;i;i/=10){
