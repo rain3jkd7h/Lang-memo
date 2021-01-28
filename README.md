@@ -9,6 +9,10 @@
   <dt>getnum_to_args.c</dt>
   <dd>数字をn桁目から1桁目までを配列に格納する。</dd>
 </dl>
+<dl>
+  <dt>vibrate.c</dt>
+  <dd>図形を振動させるだけの関数。</dd>
+</dl>
 </div></details>
 
 まだ増えるかもね。
