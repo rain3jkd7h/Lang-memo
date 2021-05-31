@@ -15,5 +15,12 @@
 </dl>
 </div></details>
 
+<details><summary>python言語</summary><div>
+<dl>
+  <dt>type.py</dt>
+  <dd>重要な変数の型を厳守するためのスクリプト</dd>
+</dl>
+</div></details>
+
 まだ増えるかもね。
 
